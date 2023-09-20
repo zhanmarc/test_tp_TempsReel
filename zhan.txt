@@ -6,5 +6,11 @@ créer un fichier: cat > nom_fichier.txt
 (après la cration du fichier, on peut directement écrire dedans. Pour terminer l'écriture, appuyer sur CTRL+D)
 vérifier fichier créer ou non: ls -1
 visualisation le contenu d'un fichier: cat nomdufichier.txt (cat *.txt)
-réécrire le fichier du 0: cat source.txt (ou "texte") >> destination.txt
-ajouter un texte à la suite: cat source.txt (ou "texte") >> destination.txt
+remplacer le fichier: cat source.txt > destination.txt
+rajouter un (ou plusieur) fichier(s) à la suite: cat source1.txt source2.txt >> destination.txt
+réécrire à partir du 0: echo "texte" > fichier.txt
+ajouter un texte à la suite :  echo "texte" >> fichier.txt
+
+
+username: marc
+code: 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
