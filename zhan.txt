@@ -1,0 +1,10 @@
+hello M2 syscom
+
+Rappelle:
+créer un répertoire: mkdir nom_repertoire
+créer un fichier: cat > nom_fichier.txt
+(après la cration du fichier, on peut directement écrire dedans. Pour terminer l'écriture, appuyer sur CTRL+D)
+vérifier fichier créer ou non: ls -1
+visualisation le contenu d'un fichier: cat nomdufichier.txt (cat *.txt)
+réécrire le fichier du 0: cat source.txt (ou "texte") >> destination.txt
+ajouter un texte à la suite: cat source.txt (ou "texte") >> destination.txt
