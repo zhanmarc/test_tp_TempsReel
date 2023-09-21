@@ -11,3 +11,10 @@ rajouter un (ou plusieur) fichier(s) à la suite: cat source1.txt source2.txt >>
 réécrire à partir du 0: echo "texte" > fichier.txt
 ajouter un texte à la suite :  echo "texte" >> fichier.txt
 modification/écrire dans un texte: nano nomfichier.txt
+
+SUPPRIMER un FICHIER: 
+	git rmnomfichier.txt
+	git commit -m "commentaire"
+	git push
+
+
