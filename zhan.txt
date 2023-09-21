@@ -14,7 +14,7 @@ modification/écrire dans un texte: nano nomfichier.txt
 
 
 username: zhanmarc
-code: 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
+code: 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
 
 
 TP2 le 21.09.2023
