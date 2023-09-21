@@ -1,5 +1,5 @@
 hello M2 syscom
-
+.......
 Rappelle:
 créer un répertoire: mkdir nom_repertoire
 créer un fichier: cat > nom_fichier.txt
