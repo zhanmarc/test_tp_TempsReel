@@ -1,5 +1,5 @@
 hello M2 syscom
-.......
+
 Rappelle:
 créer un répertoire: mkdir nom_repertoire
 créer un fichier: cat > nom_fichier.txt
@@ -10,16 +10,11 @@ remplacer le fichier: cat source.txt > destination.txt
 rajouter un (ou plusieur) fichier(s) à la suite: cat source1.txt source2.txt >> destination.txt
 réécrire à partir du 0: echo "texte" > fichier.txt
 ajouter un texte à la suite :  echo "texte" >> fichier.txt
+modification/écrire dans un texte: nano nomfichier.txt
 
 
-username: marc
-code: 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
-test1
-test2
-test3
-test4
-TP2 le 21.09.2023
-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
-123
-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
 username: zhanmarc
+code: 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
+
+
+TP2 le 21.09.2023
