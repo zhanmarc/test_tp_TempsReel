@@ -1,4 +1,4 @@
-fdsfsdfsdfsfsfsdfsfsfhello M2 syscom
+hello M2 syscom
 
 Rappelle:
 créer un répertoire: mkdir nom_repertoire
